@@ -3,7 +3,7 @@ This plugin is now being actively maintained by JFrog Inc. Please refer to [CONT
 -----------------------------------------------------------------
 
 
-This is not yet ready for production use. Please file issues though as you find them.
+This is not yet ready for production use. Please file issues though as you find them. hza
 
 ![Build](https://github.com/idcmp/artifactory-secrets-plugin/workflows/Build/badge.svg)
 
